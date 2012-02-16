@@ -1,4 +1,4 @@
-
+require 'fog'
 require 'cocaine'
 
 module OrganizzeRedisBackup
